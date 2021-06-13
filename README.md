@@ -9,3 +9,5 @@ https://www.overleaf.com/
 
 is.gd/ressum
 
+https://faangpath.com/template/
+
