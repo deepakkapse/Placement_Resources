@@ -43,6 +43,27 @@
   <li><a href="https://github.com/SyamSundarKirubakaran/DSA_Java">DS_JAVA</a></li>
   <li><a href="http://speakingjs.com/es5/ch01.html">Javascript</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q">Java In Hindi-Code with Harry</a></li>
+  <li><a href="https://450dsa.com/"></a>450 ds and Algo questions tracker by love babbar</li>
+  <li><a href=""></a></li>
+  </ol>
+  
+   **RoadMaps/InterviewTips/Faqs:**
+  
+  <ol>
+  <li><a href="https://whimsical.com/4th-year-roadmap-to-dream-placement-WB2HTZixtsohXoDcvr6Me7">4th year roadmap to dream placement by Love Babbar</a></li>
+  <li><a href="https://www.reddit.com/r/programming/wiki/faq">Programming Doubts clarified </a></li>
+  <li><a href="https://www.reddit.com/r/learnprogramming/wiki/faq">Programming Doubts clarified part-2</a></li>
+  <li><a href="https://www.reddit.com/r/learnprogramming/wiki/books">Programming book Doubts clarified</a></li>
+  <li><a href="https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/">My (5+5)-step self-taught CS curriculum</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
+  
+  **DBMS:**
+  
+  <ol>
+  <li><a href="https://www.w3schools.com/">W3school for beginners</a></li>
+  <li><a href="https://www.sanfoundry.com/1000-database-management-system-questions-answers/">Sanfoundry 1000MCQ on DBMS most recommeded for Placement Preparation</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   </ol>
