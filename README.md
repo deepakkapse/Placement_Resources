@@ -42,6 +42,24 @@
   <li><a href="https://github.com/sparsh-99/DS-Algo">DS-Algo</a></li>
   <li><a href="https://github.com/SyamSundarKirubakaran/DSA_Java">DS_JAVA</a></li>
   <li><a href="http://speakingjs.com/es5/ch01.html">Javascript</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q">Java In Hindi-Code with Harry</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
+  
+  **Web Development:**
+  
+  <ol>
+  <li><a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
+  
+  **Open Source Contribution:**
+  
+  <ol>
+  <li><a href="https://dev.to/naman56/guide-for-your-first-open-source-contribution-2136">Guide for your first open source contribution</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
@@ -56,5 +74,16 @@
   <li><a href=""></a></li>
   </ol>
   
+   **System Design:**
+  
+  <ol>
+  <li><a href="https://github.com/prasadgujar/low-level-design-primer">Low Level Design Primer</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed System Lecture series-Youtube</a></li>
+  <li><a href="https://www.freecodecamp.org/news/systems-design-for-interviews/">System Design for Inerview-FreeCodeCamp</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
   
   *DISCLAIMER: These are from other's repositories*
