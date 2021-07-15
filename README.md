@@ -55,7 +55,7 @@
   <li><a href="https://www.reddit.com/r/learnprogramming/wiki/faq">Programming Doubts clarified part-2</a></li>
   <li><a href="https://www.reddit.com/r/learnprogramming/wiki/books">Programming book Doubts clarified</a></li>
   <li><a href="https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/">My (5+5)-step self-taught CS curriculum</a></li>
-  <li><a href="https://workat.tech/resources">Best Blogs on how to prepare for SDE roles to crack product based companies</a></li>
+  <li><a href="https://workat.tech/resources/">Best Blogs on how to prepare for SDE roles to crack product based companies</a></li>
   <li><a href=""></a></li>
   </ol>
   
