@@ -45,14 +45,16 @@
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
-  
   </ol>
+  
   **Devops Resources:**
-<ol>
+  
+  <ol>
   <li><a href="https://devopscube.com/list-of-devops-blogs-and-resources/">List of devops Blogs and Resources</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
-</ol>
+  </ol>
+  
   
   *DISCLAIMER: These are from other's repositories*
