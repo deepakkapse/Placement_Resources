@@ -44,6 +44,14 @@
   <li><a href="http://speakingjs.com/es5/ch01.html">Javascript</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q">Java In Hindi-Code with Harry</a></li>
   <li><a href="https://450dsa.com/">450 ds and Algo questions tracker by love babbar</a></li>
+  <li><a href="https://books.goalkicker.com/CSharpBook/">C# Notes</a></li>
+  <li><a href="https://books.goalkicker.com/AndroidBook/">Android Notes</a></li>
+  <li><a href="https://books.goalkicker.com/AlgorithmsBook/">Algorithm Notes using Python</a></li>
+  <li><a href="https://books.goalkicker.com/LinuxBook/">Linux Notes</a></li>
+  <li><a href="https://books.goalkicker.com/CBook/">C Programming Notes</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
   <li><a href=""></a></li>
   </ol>
   
