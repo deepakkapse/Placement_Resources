@@ -116,12 +116,13 @@
 45. www.professormesser.com .
 46. www.freecodecamp.org
   </ol>
+  
   **DBMS:**
   
   <ol>
   <li><a href="https://www.w3schools.com/">W3school for beginners</a></li>
   <li><a href="https://www.sanfoundry.com/1000-database-management-system-questions-answers/">Sanfoundry 1000MCQ on DBMS most recommeded for Placement Preparation</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.sqlclimber.com/">SQL Climber to practise SQL Queries</a></li>
   <li><a href=""></a></li>
   </ol>
   
