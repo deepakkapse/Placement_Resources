@@ -29,6 +29,12 @@
   
   *NOTE: IF you are applying for particular roles then search in google for that particular role related resume and build on Top of it*
   
+  **Aptitude:**
+<ol>
+  <li>RS Agarwal Book or Arunsharma Cat Book</li>
+  <li><a href="https://drive.google.com/folderview?id=1aliqWXcGc27aYPk2tsF78mcLoEGjChrw">Aptitude material</a></li>
+  </ol>
+  
   **Coding Resources:**
   <ol>
   <li><a href="https://github.com/aershov24/coding-interview-questions">300 Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from FullStack.Cafe</a></li>
