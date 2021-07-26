@@ -1,4 +1,4 @@
-# Resume_resources
+# Placement_resources
 **Resources to create a best resume:**
 
 <ol>
