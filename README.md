@@ -66,6 +66,8 @@
   <li><a href="https://workat.tech/resources/">Best Blogs on how to prepare for SDE roles to crack product based companies</a></li>
   <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></li>
   <li><a href="https://roadmap.sh">Roadmap for Webdevelopers</a></li>
+  <li><a href="https://fullstackdeeplearning.com/spring2021/">Fullstackdeeplearning</a></li>
+  
   </ol>
   
   **🔰Top Learning Websites** 
