@@ -67,6 +67,7 @@
   <li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></li>
   <li><a href="https://roadmap.sh">Roadmap for Webdevelopers</a></li>
   <li><a href="https://fullstackdeeplearning.com/spring2021/">Fullstackdeeplearning</a></li>
+  <li><a href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/">Development Vs Coding</a></li>
   
   </ol>
   
