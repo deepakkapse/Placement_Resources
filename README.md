@@ -145,6 +145,15 @@
   <li><a href=""></a></li>
   </ol>
   
+  **Operating Systems:**
+  
+  <ol>
+  <li><a href="https://www.interviewbit.com/operating-system-interview-questions">OS Interview Questions:InterviewBit</a></li>
+  <li><a href="https://youtu.be/YwqexcfbucE">Complete Course by Knowledge Gate Sanchit sir</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  </ol>
+  
   **Open Source Contribution:**
   
   <ol>
@@ -174,5 +183,7 @@
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   </ol>
+  
+  
   
   *DISCLAIMER: These are from other's repositories*
