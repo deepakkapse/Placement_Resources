@@ -140,7 +140,7 @@
   
   <ol>
   <li><a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-30th-july-2021-bnc">10-trending-projects-on-github-for-web-developers</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   </ol>
