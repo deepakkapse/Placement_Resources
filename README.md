@@ -55,7 +55,7 @@
   <li><a href="https://books.goalkicker.com/AlgorithmsBook/">Algorithm Notes using Python</a></li>
   <li><a href="https://books.goalkicker.com/LinuxBook/">Linux Notes</a></li>
   <li><a href="https://books.goalkicker.com/CBook/">C Programming Notes</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/PacktPublishing/CPP-Data-Structures-and-Algorithms">CPP DS & Algo</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
