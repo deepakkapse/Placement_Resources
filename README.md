@@ -74,6 +74,9 @@
   <li><a href="https://roadmap.sh">Roadmap for Webdevelopers</a></li>
   <li><a href="https://fullstackdeeplearning.com/spring2021/">Fullstackdeeplearning</a></li>
   <li><a href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/">Development Vs Coding</a></li>
+  <li><a href="https://piyushchaturvedii.github.io/javaScript_interview/">jS interview questions ⚡</a></li>
+  <li><a href="https://github.com/PiyushChaturvedii/ReactJS/tree/main/react-interview-questions-master">React.jS interview questions ⚡</a></li>
+  <li><a href="https://github.com/PiyushChaturvedii/NodeJS">Node jS interview questions ⚡</a></li>
   
   </ol>
   
