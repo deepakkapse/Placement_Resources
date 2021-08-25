@@ -171,7 +171,7 @@
   <ol>
   <li><a href="https://devopscube.com/list-of-devops-blogs-and-resources/">List of devops Blogs and Resources</a></li>
   <li><a href="https://digital.ai/periodic-table-of-devops-tools">Devops Periodic Table</a></li>
-  <li><a href="https://linkedin.github.io/school-of-sre/"></a></li>
+  <li><a href="https://linkedin.github.io/school-of-sre/">SRE for DevOps content</a></li>
   <li><a href=""></a></li>
   </ol>
   
