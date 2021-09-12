@@ -77,6 +77,7 @@
   <li><a href="https://piyushchaturvedii.github.io/javaScript_interview/">jS interview questions ⚡</a></li>
   <li><a href="https://github.com/PiyushChaturvedii/ReactJS/tree/main/react-interview-questions-master">React.jS interview questions ⚡</a></li>
   <li><a href="https://github.com/PiyushChaturvedii/NodeJS">Node jS interview questions ⚡</a></li>
+  <li><a href="https://quickref.me/"></a>The Quick reference of all resources</li>
   
   </ol>
   
