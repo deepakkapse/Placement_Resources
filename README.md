@@ -129,6 +129,7 @@
 44. www.microsoftvirtualacademy.com 
 45. www.professormesser.com .
 46. www.freecodecamp.org
+  47. https://lordicon.com/
   </ol>
   
   **DBMS:**
