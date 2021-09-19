@@ -57,7 +57,7 @@
   <li><a href="https://books.goalkicker.com/CBook/">C Programming Notes</a></li>
   <li><a href="https://github.com/PacktPublishing/CPP-Data-Structures-and-Algorithms">CPP DS & Algo</a></li>
   <li><a href="https://github.com/TheAlgorithms/Python">The algorithms in Python</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://codeforces.com/blog/entry/95106">competitive programming guidamce with questions</a></li>
   <li><a href=""></a></li>
   </ol>
   
