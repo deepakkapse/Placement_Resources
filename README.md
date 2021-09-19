@@ -27,7 +27,7 @@
    <li>https://developerfolio.js.org/</li>
   </ol>
   
-  *NOTE: IF you are applying for particular roles then search in google for that particular role related resume and build on Top of it*
+  *NOTE:. IF you are applying for particular roles then search in google for that particular role related resume and build on Top of it*
   
   **Aptitude:**
 <ol>
