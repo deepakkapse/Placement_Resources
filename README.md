@@ -1,4 +1,7 @@
 # Placement_resources
+**Course,Notes,Cheatsheets,previous year solved questions and lot more...**
+
+
 **Resources to create a best resume:**
 
 <ol>
