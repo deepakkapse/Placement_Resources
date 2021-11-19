@@ -1,0 +1,2121 @@
+ Q1.     In which year TCS was established? 
+
+
+Ans-   1968
+ 
+
+Q2.    Which of the following sorting algorithms are best suited when almost  all elements 
+
+           are already sorted(max one or two are not sorted)?
+
+Ans -  Insertion Sort 
+ 
+
+Q3.     What is the use of CAPTION tag in  HTML? 
+
+Ans-    Add Title to the table
+ 
+
+Q4.     What is the use of Blockqoute tag in  HTML? 
+
+Ans-    Used to indicate the quotation of a large section of text from another source
+ 
+
+Q5.      Which of the following is inline tag in  HTML?
+
+ Ans-    <b>   <a>    <i>    <img>   <q>  <br>
+
+ 
+
+ 
+
+Q6.      Syntax to define array in Javascript.
+
+Ans-    arrayname = [ ]
+
+ 
+
+ 
+
+Q7.      Table Level Constraint in Mysql.
+
+Ans-    Check , Primary Key
+
+ 
+
+ 
+
+Q8.      Command to compress a file in  UNIX.
+
+Ans-    gzip ,   bzip2,   zip 
+
+ 
+
+ 
+
+Q9.      Command to give length of longest line in a file in UINX. 
+
+Ans -   wc  -L filename
+
+ 
+
+ 
+
+Q10.     When to use dynamic programming approach?
+
+Ans-      Optimization is needed
+
+ 
+
+ 
+
+Q11.    How to give negative information through email?
+
+Ans-    Negative information should not be given
+
+ 
+
+ 
+
+Q12.    You are new to an organization and you are middle of an assessment then only 
+
+            your senior asked to attend a seminar behalf on him.
+
+Ans - Politely say you will attend after completing your assessment
+
+ 
+
+ 
+
+Q13.    Pattern matching command in UNIX.
+
+Ans -    grep
+
+ 
+
+ 
+
+Q14.     TCS has won mega partner excellence award in
+
+Ans-      2017
+
+ 
+
+ 
+
+Q15.    Two A's of effective writing is 
+
+Ans-     Accurate and Accesssible
+
+
+ 
+
+Q16.    Details provided in signature of email
+
+Ans-     Name,Email,Phone,Role
+
+ 
+
+ 
+
+ Q17.     Some challenges of Artificial Intelligence
+
+Ans-      Cost, Common Sense, Technology
+
+ 
+
+ 
+
+Q18.      Synatx of background image in css
+
+Ans-      background-image
+
+ 
+
+ 
+
+Q19.     All html tgs have closing tags
+
+Ans-     False 
+
+ 
+
+ 
+
+Q20.      How mant types of indices are present in sql server
+
+Ans-      2
+
+ 
+
+ 
+
+Q21.     Emphasizing the text in HTML
+
+Ans-      <em>
+
+ 
+
+ 
+
+Q22.   Which of the following is not a formatting tag in HTML? 
+
+Ans-    <p>
+
+ 
+
+ 
+
+Q23.   Invalid filed in HTML
+
+Ans-   Day
+
+ 
+
+ 
+
+Q24.   Fastest sorting algorithm among Heap,Merge,Quick & Selection Sort
+
+Ans-   Merge
+
+
+ 
+
+Q25.  Which of the following in not a dynamic programming approach?
+
+Ans-   Primes Algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+When and where was TCS founded?
+
+A. 1968, Mumbai
+
+B. 1954, Mumbai
+
+C. 1968, Jamshedpur
+
+D. 1954, Coimbatore
+
+
+
+Answer Key: A
+
+
+
+
+
+[ Tips: The correct answer is 1968, Mumbai. In 1968, TCS was formed 
+as division of TATA Sons. It started as Tata Computer Center. Its main 
+business was to provide computer services to other group companies. An 
+electrical engineer from the Tata Electric Companies, Fakir Chand Kohli,
+ was brought in as the first General Manager. Soon after, the company 
+was named Tata Consultancy Services.TCS is headquartered in Mumbai, and 
+operates in more than 42 countries and has more than 142 offices across 
+the world.] 
+
+
+
+
+
+# Question 2 of 10 10.0 Points
+
+To how many industries does TCS provides its consultancy?
+
+A. 12
+
+B. 10
+
+C. 20
+
+D. 15
+
+
+
+Answer Key: A
+
+
+
+
+
+[ Tips: The correct answer is 12. 1) Banking and Financial 
+Services 2) Energy, Resources and Utilities 3) Government 4) Healthcare 
+5) High-tech 6)Insurance 7)Life Sciences 8)Manufacturing 9)Media and 
+Information services 10) Retail and Consumer products 11) Telecom and 
+12) Travel, transport and hospitality]
+
+
+
+
+
+# Question 3 of 10 10.0 Points
+
+What are the values of TCS?
+
+A. Leading Change, Integrity, Responsibility, Excellence, Learning and propelling
+
+B. Leading innovation, Integrity, Respect for the colleagues, Excellence, Mentoring and Sharing
+
+C. Leading innovation, Integrity, Courteous, Certainty, Learning and Sharing Correct
+
+D. Leading Change, Integrity, Respect for individual, Excellence, Learning and Sharing
+
+
+
+Answer Key: D
+
+[ Tips: The correct answer is Leading Change, Integrity, Respect for individual, Excellence, Learning and Sharing] 
+
+
+
+
+
+# Question 4 of 10 10.0 Points
+
+What is the name of the first research center established by TCS?
+
+A. Tata Institute of Social Sciences (TISS)
+
+B. Tata Research Development and Design Center (TRDDC)
+
+C. Tata Institute of Fundamental Research (TIFR)
+
+D. Indian Institute of Science (IISc)
+
+
+
+Answer Key: B
+
+[ Tips: The correct answer is Tata Research Development and Design Center (TRDDC)] 
+
+
+
+
+
+# Question 5 of 10 10.0 Points
+
+What was TCS’s first onsite project?
+
+A. Automating Johannesburg Stock Exchange
+
+B. Burroughs (the first business computer manufacturer)
+
+C. Developing electronic depository, SECOM for SIS SegaInterSettle, Switzerland
+
+D. Institutional Group and Information Company (IGIC)
+
+
+
+Answer Key: D
+
+
+
+
+
+[ Tips: The correct answer is Institutional Group and Information 
+Company (IGIC). The company pioneered the global delivery model for IT 
+services with its first offshore client in 1974. TCS’s first 
+international order came from Burroughs, one of the first business 
+computer manufacturers. TCS was assigned to write code for the Burroughs
+ machines for several US-based clients. This experience also helped TCS 
+bag its first onsite project – the Institutional Group and Information 
+Company (IGIC), a data centre for ten banks, which catered to two 
+million customers in the US, assigned TCS the task of maintaining and 
+upgrading its computer systems.]
+
+
+
+
+
+# Question 6 of 10 10.0 Points
+
+TCS is ….. largest IT firm in the world?
+
+A. 8th
+
+B. 2nd
+
+C. 4th
+
+D. 6th
+
+
+
+Answer Key: A 
+
+
+
+
+
+# Question 7 of 10 10.0 Points
+
+Who is TCS first General Manager?
+
+A. JRD Tata
+
+B. F.C Kohli
+
+C. Ratan Tata
+
+D. S. Ramadorai
+
+
+
+Answer Key: B 
+
+ 
+
+
+
+
+
+# Question 8 of 10 10.0 Points
+
+TCS provides six major IT services
+
+A. Customer Development, Application Management, Migration and 
+Re-engineering, System Integration, Testing, Performance Engineering
+
+B. Custom Application Development, Application Management, Migration and
+ Re-engineering, Business Management, Testing, Performance Engineering
+
+C. Custom Application Development, Application Management, Migration and
+ Re-engineering, System Integration, Testing, Performance Engineering
+
+D. Customer Development, Application Management, Migration and 
+Re-engineering, Business Management, Testing, Performance Engineering
+
+
+
+Answer Key: B 
+
+ 
+
+
+
+
+
+# Question 9 of 10 10.0 Points
+
+Which model does TCS follow?
+
+A. Global Integrated Delivery Model
+
+B. World Integrated Delivery Model
+
+C. World Network Delivery Model
+
+D. Global Network Delivery Model
+
+
+
+Answer Key: D 
+
+ 
+
+
+
+
+
+# Question 10 of 10 10.0 Points
+
+Tata Consulting Services goes public in India’s private sector’s largest initial public offer in
+
+A. 2006 
+
+B. 1999 
+
+C. 2004 
+
+D. 2002 
+
+
+
+Answer Key: C 
+
+
+
+
+
+
+
+
+UNIX MCQS : 
+
+
+
+
+
+1.To copy two files in a new files ?
+
+
+
+
+
+cat file1 file 2 > file 3   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+2.To sort the records from large to small number and print the largest number ?
+
+
+
+
+
+ Option with Desc limit 1     .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+3.Grep tata.*services$//multiple answer question
+
+
+
+
+
+which has tata --service –may contain anything like consultancy , conference etc..     .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+4.To remove a folder  which have files
+
+
+
+
+
+1.rm –rf    .A
+
+
+
+
+
+2.rmdir –l
+
+
+
+
+
+3.rmdiv
+
+
+
+
+
+4.rmAns:
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+5.Grep –v java// multiple answer question
+
+
+
+
+
+options which doesn’t contain the java word in the line is the answer
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+6.S=0 {s=s+$2}
+
+
+
+
+
+Avg of second column
+
+
+
+
+
+Sum of second column    .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+​7.Unix command to remove duplicates in line  ?
+
+
+
+
+
+1.sort –u   .A
+
+
+
+
+
+2.sort unique
+
+
+
+
+
+3.uniq
+
+
+
+
+
+4.unique
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+8.What is output of below commands.. ?
+
+
+
+
+
+grep –o cat animal.txtgrep ‘cat’ animal.txt
+
+
+
+
+
+1.cat cat     .A
+
+
+
+
+
+2.Cat Cat
+
+
+
+
+
+3.None cat
+
+
+
+
+
+4.none of these
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+9.File and directory permission access will be done by which command ... ?
+
+
+
+
+
+chmod    .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+10.On update cascade ensures what .. ?
+
+
+
+
+
+1.Data integrity   .A
+
+
+
+
+
+2.Normalization
+
+
+
+
+
+3.Materialized
+
+
+
+
+
+4.All
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+11.Delete lines from ‘this’ file .. ?1.Sed/’this’/d file2.Delete –f this file3.Sed/this/file4.Sed/this/d fileAns : 1
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+12.String ‘llp’ file case insensitive.. ?
+
+
+
+
+
+1.Grep –i‘llp’ file.txt    .A
+
+
+
+
+
+2.Grep –wi‘llp’ file.txt
+
+
+
+
+
+3.Grep –w ‘llp’ file.txt
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+13.Compress file in unix.. ?
+
+
+
+
+
+1.Compress
+
+
+
+
+
+2.Comp
+
+
+
+
+
+3.Zip   .A
+
+
+
+
+
+4.gzip   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+14.Pattern match at beginning of file ?
+
+
+
+
+
+1.Pat^
+
+
+
+
+
+2.Pat$
+
+
+
+
+
+3.$pat
+
+
+
+
+
+4.^pat   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+15.Length of longest file .. ?
+
+
+
+
+
+1.Wc -cl
+
+
+
+
+
+2.Wc –L <filename>   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+16.Sort file1| uniq–u
+
+
+
+
+
+1.Sort the file name file 1 and diplaysdistinct lines .A
+
+
+
+
+
+2.Find unique lines and sort
+
+
+
+
+
+3.Command has syntax error
+
+
+
+
+
+4.Sort the file and display duplicate lines
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+17.Query to delete primary key constraints .. ?     
+
+
+
+
+
+Drop
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+18.To print first line from file1.txt use,
+
+
+
+
+
+1.echo $1 file1.txt
+
+
+
+
+
+2.awk 'NR==1' file1.txt     .A
+
+
+
+
+
+3.head -1 file1.txt     .A
+
+
+
+
+
+4.sed -n '1p' file1.txt   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+19.What is output of below command 
+
+
+
+
+
+awk'BEGIN{s=0 while(s<55){print s; ++s}}'
+
+
+
+
+
+1. prints 0 to 54 number
+
+
+
+
+
+2. prints 0 to 55 number
+
+
+
+
+
+3. syntax error.     .A
+
+
+
+
+
+4. infinite loop
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+20.To count only words from which command is used ?
+
+
+
+
+
+1.wc filename
+
+
+
+
+
+2.wc -w filename  .A
+
+
+
+
+
+3.wc -word filename
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+21.S=S+$2.. ?
+
+
+
+
+
+1.avg of second column
+
+
+
+
+
+2.sum of second column  .A
+
+
+
+
+
+3.None
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+22._____displays all environment variables
+
+
+
+
+
+1.environ
+
+
+
+
+
+2.env  .A
+
+
+
+
+
+3.HOME
+
+
+
+
+
+4.HOM
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+23.in order to determinvalue of a variable use the command?
+
+
+
+
+
+1.echo
+
+
+
+
+
+2.cat
+
+
+
+
+
+3.ls
+
+
+
+
+
+4.set  .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+24.What is unix?
+
+
+
+
+
+1.an operating system  .A
+
+
+
+
+
+2.programming language
+
+
+
+
+
+3.software
+
+
+
+
+
+4.editor
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+25.What are three main components of the Unix Architecture
+
+
+
+
+
+1.kernel,data,PC
+
+
+
+
+
+2.pcb,utilities,shell
+
+
+
+
+
+3.shell,kernel,shared memory
+
+
+
+
+
+4.kernel,shell,utilities  .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+26.When a process finished its execution and exit status not received by the parent, the process state becomes...
+
+
+
+
+
+1.new
+
+
+
+
+
+2.stopped
+
+
+
+
+
+3.orphan
+
+
+
+
+
+4.Zombie   .A
+
+
+
+
+
+
+
+
+
+
+
+PLSQL MCQs : 
+
+
+
+
+
+1.What type of join in below statement..?
+
+Select column name(s) from table1 T1 , table2 T2 Where condition;
+
+1.self join    .A
+
+2.inner join
+
+3.outer join
+
+4.Left outer join
+
+
+
+
+
+2.Plsql question with global variables and local variables
+
+1.95,95
+
+2.95,195
+
+3.195,195    .A
+
+4.Error
+
+
+
+
+
+3.How many types of indices are present in sqlserver ?
+
+1.2    .A
+
+2.1
+
+3.3
+
+4.4
+
+
+
+
+
+4.Sql command-
+
+1.select age where age between 30 and 100    .A
+
+2.select age where age(30,100)
+
+3.select age where age>=30 and age<=100
+
+
+
+
+
+5.Which is the invalid command in sql?
+
+1.Revoke
+
+2.Join
+
+3.Fetch     .A
+
+4.Like
+
+
+
+
+
+6.To increase the size of a column in SQL.. ?
+
+ALTER TABLE table_name MODIFY column_name datatype(new_size)    .A
+
+
+
+
+
+7.One question from plsqlwas” the upward to lower flow in a loop is ....?”
+
+1.inverse
+
+2.reverse     .A
+
+3.backward
+
+4.none
+
+
+
+
+
+8.SQL Query used to search details based on the 1st character in a column..?
+
+Select * from table_namewhere name like ‘(char)%’;
+
+
+
+
+
+9.What is purpose of type and rowtype..?
+
+ TYPE provides datatype of a variable and ROWTYPE provides 
+record type that represents a entire row of a table or view or columns 
+selected in the cursor
+
+
+
+
+
+10.Procedure can be called in how many ways
+
+1.automatically called
+
+2.called using select statement
+
+3.using execute command  .A
+
+4.calling the name of the procedure from other plsqlblock    .A
+
+
+
+
+
+11.What will happen(pl/sqlcode)Exit when (c1%rowcount>5) or (c1%notfound)
+
+ terminate loop when row count is greater than 5 or when no data found
+
+
+
+
+
+12.Which are the types of conditional statements in plsql?
+
+1. IF THEN END IFIF THEN ELSE END IFIF THEN ELSEIF END IF
+
+2.IF THEN END IFIF THEN ELSE END IFIF THEN ELSIF END IF    .A
+
+3.IF THEN END IFIF THEN ELSE ENDIF THEN ELSEIF END
+
+4.IF THEN END IFIF THEN ELSE ENDIF THEN ELSIF END
+
+
+
+ 
+
+
+
+14.We cannot use where clause with truncate.
+
+1.True .A
+
+2.False
+
+
+
+
+
+15.What is the output of the below query?
+
+select left('Welcome to PLSQL',3)
+
+1.wel   .A
+
+2.Error
+
+3.SQL
+
+4.We
+
+
+
+
+
+16.Sql command to drop the column in specific table.. ?
+
+alter table tablenamedrop column columnname
+
+
+
+
+
+
+
+
+
+
+RIO MCQs : 
+
+
+
+
+
+1.. Rio weekly celebrate because ?
+
+
+
+
+
+Aimed to improve System support   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+2.Operation Flow of information in Rio.. ?
+
+
+
+
+
+1.Primary -> Secondary -> KT   .A
+
+
+
+
+
+2.Secondary -> Primary -> KT
+
+
+
+
+
+3.KT -> SECONDARY -> PRIMARY
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+3.Transition phase ?
+
+
+
+
+
+1.Primary -> Secondary -> KT    .A
+
+
+
+
+
+2.Secondary -> Primary -> KT
+
+
+
+
+
+3.KT -> SECONDARY -> PRIMARY
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+4.In which normalization from transitive dependency.. ?
+
+
+
+
+
+3nf   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+5.How to print server output on terminal ?
+
+
+
+
+
+1.set dbmsoutput on
+
+
+
+
+
+2.set output on
+
+
+
+
+
+3.set serveroutput on    .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+6.Difference between primary key and foreign key ?
+
+
+
+
+
+1.primary key is only one and foreign key may be one or more   .A
+
+
+
+
+
+2.primary key  is unique and foreign key can be duplicate
+
+.A
+
+
+
+3.primary key can't null and foreign key can be null   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+7.Insert into category values(2, 'polo', 1200.99);
+
+
+
+
+
+1) successfully inserted
+
+
+
+
+
+2) sqlerror
+
+
+
+
+
+3) syntax error of insert   .A
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+8.Truncated command can't be used with where clause .. ?
+
+
+
+
+
+1.True   .A
+
+
+
+
+
+2.False
+
+
+
+
+
+ 
+
+
+
+
+
+9.Rio
+
+
+
+
+
+1.discipline in execution+pursuit of excellence+customer experience   .A
+
+
+
+
+
+2.discipline in execution+pursuit of excellence+rigor
+
+
+
+
+
+3.discipline in execution+integrity+customer experience ​
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+10.The role of production support engineer requires
+
+
+
+
+
+1.only technical knowledge
+
+
+
+
+
+2.only domain knowledge required
+
+
+
+
+
+3.right combination of technical and inter personnel skills
+
+.A
+
+
+
+4.only interpersonal skills​
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+11.RiO stands for?
+
+
+
+
+
+Rigor in Operations    .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+12.Name the pledge taken by support engineers to ensure they adhere to project discipline-
+
+
+
+
+
+1.tcs pledge
+
+
+
+
+
+2.operations pledge   .A
+
+
+
+
+
+3.account pledge
+
+
+
+
+
+4.project oath
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+13.Students as a group associated with multiple faculty members and 
+faculty members are associated with multiple students. The relationship?
+
+
+
+
+
+1.one to one
+
+
+
+
+
+2.many to one
+
+
+
+
+
+3.many to many   .A
+
+
+
+
+
+4.one to many
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+14.Tick the correct one
+
+
+
+
+
+1.foreign key can be null but primary key cannot be null  .A
+
+
+
+
+
+2.unlike primary key foreign key contains dublicatevalue  .A
+
+
+
+
+
+3.one primary key can have multiple foreign keys  .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+15.What are the various keywords used along with the ALTER statements?
+
+
+
+
+
+1.ADD,DROP,SELECT,MODIFY
+
+
+
+
+
+2.DROP,RENAME,ADD,MODIFY   .A
+
+
+
+
+
+3.DROP,DELETE,ADD,MODIFY
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+16.Which of the below option ensure that the value of COLUMN(named as budget) is non-negative?
+
+
+
+
+
+1.alter(budget>=0)
+
+
+
+
+
+2.alter(budget<0)
+
+
+
+
+
+3.check(budget<0)
+
+
+
+
+
+4.check(budget>=0)   .A
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+17.DBMS and RDBMS are one and same?
+
+
+
+
+
+1.false  .A
+
+
+
+
+
+2.true
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+18.Rio is an initiative that is aimed at improving our production support operations
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+19.RiO Day Celebrated on
+
+
+
+
+
+24th July as TCS operations day(available 24x7) and whole week is known as RiO week to spread awareness about RiO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
