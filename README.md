@@ -61,6 +61,7 @@
   <li><a href="https://github.com/PacktPublishing/CPP-Data-Structures-and-Algorithms">CPP DS & Algo</a></li>
   <li><a href="https://github.com/TheAlgorithms/Python">The algorithms in Python</a></li>
   <li><a href="https://codeforces.com/blog/entry/95106">competitive programming guidamce with questions</a></li>
+  <li><a href="https://java2blog.com/data-structures-java/"></a></li>
   <li><a href=""></a></li>
   </ol>
   
@@ -151,6 +152,8 @@
   <li><a href="https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-30th-july-2021-bnc">10-trending-projects-on-github-for-web-developers</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">FreeCodeCamp</a></li>
   <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
   </ol>
   
   **Operating Systems:**
@@ -178,6 +181,7 @@
   <li><a href="https://digital.ai/periodic-table-of-devops-tools">Devops Periodic Table</a></li>
   <li><a href="https://linkedin.github.io/school-of-sre/">SRE for DevOps content</a></li>
   <li><a href="https://www.kubernetesbyexample.com/?sc_cid7013a000002wQmBAAU">Learn Kuberenetes for free with practicals</a></li>
+  <li><a href="https://www.katacoda.com/">Katacoda</a></li>
   </ol>
   
    **System Design:**
