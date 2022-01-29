@@ -61,8 +61,8 @@
   <li><a href="https://github.com/PacktPublishing/CPP-Data-Structures-and-Algorithms">CPP DS & Algo</a></li>
   <li><a href="https://github.com/TheAlgorithms/Python">The algorithms in Python</a></li>
   <li><a href="https://codeforces.com/blog/entry/95106">competitive programming guidamce with questions</a></li>
-  <li><a href="https://java2blog.com/data-structures-java/"></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://java2blog.com/data-structures-java/">DS Java</a></li>
+  <li><a href="https://github.com/Developer-Y/cs-video-courses">CS-Video-Courses</a></li>
   </ol>
   
    **RoadMaps/InterviewTips/Faqs:**
@@ -81,7 +81,8 @@
   <li><a href="https://piyushchaturvedii.github.io/javaScript_interview/">jS interview questions ⚡</a></li>
   <li><a href="https://github.com/PiyushChaturvedii/ReactJS/tree/main/react-interview-questions-master">React.jS interview questions ⚡</a></li>
   <li><a href="https://github.com/PiyushChaturvedii/NodeJS">Node jS interview questions ⚡</a></li>
-  <li><a href="https://quickref.me/"></a>The Quick reference of all resources</li>
+  <li><a href="https://quickref.me/">The Quick reference of all resources</a></li>
+  <li><a href="https://github.com/Developer-Y/technical-interviews"></a>Technical Interview resources</li>
   
   </ol>
   
@@ -182,6 +183,18 @@
   <li><a href="https://linkedin.github.io/school-of-sre/">SRE for DevOps content</a></li>
   <li><a href="https://www.kubernetesbyexample.com/?sc_cid7013a000002wQmBAAU">Learn Kuberenetes for free with practicals</a></li>
   <li><a href="https://www.katacoda.com/">Katacoda</a></li>
+  
+
+  </ol>
+   
+  **Machine Learning Resources:** 
+  <ol>
+  <li><a href="https://github.com/graviraja/MLOps-Basics">Mlops Practical project</a></li>
+  <li><a href="https://github.com/graviraja/100-Days-of-NLP">100-Days-of-NLP</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+
   </ol>
   
    **System Design:**
