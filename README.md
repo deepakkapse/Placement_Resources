@@ -183,6 +183,7 @@
   <li><a href="https://linkedin.github.io/school-of-sre/">SRE for DevOps content</a></li>
   <li><a href="https://www.kubernetesbyexample.com/?sc_cid7013a000002wQmBAAU">Learn Kuberenetes for free with practicals</a></li>
   <li><a href="https://www.katacoda.com/">Katacoda</a></li>
+<li><a href="https://kube.academy/courses">Kube Academy</a></li>
   
 
   </ol>
