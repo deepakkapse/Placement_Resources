@@ -82,59 +82,59 @@
   <li><a href="https://github.com/PiyushChaturvedii/ReactJS/tree/main/react-interview-questions-master">React.jS interview questions ⚡</a></li>
   <li><a href="https://github.com/PiyushChaturvedii/NodeJS">Node jS interview questions ⚡</a></li>
   <li><a href="https://quickref.me/">The Quick reference of all resources</a></li>
-  <li><a href="https://github.com/Developer-Y/technical-interviews"></a>Technical Interview resources</li>
+  <li><a href="https://github.com/Developer-Y/technical-interviews">Technical Interview resources</a></li>
   
   </ol>
   
   **🔰Top Learning Websites** 
 <ol>
-1. www.codecademy.com 
-2. www.lynda.com 
-3. www.udemy.com 
-4. www.udacity.com 
-5. www.coursera.org 
-6. www.w3schools.com 
-7. www.thenewboston.org 
-8. www.programmr.com 
-9. www.codeavengers.com 
-10. www.codeschool.com 
-11. www.learnstreet.com 
-12. www.teamtreehouse.com 
-13. www.sqlzoo.net 
-14. www.codehs.com 
-15. www.teamtreehouse.com 
-16. www.html5rocks.com 
-17. www.codepen.io 
-18. www.sitepoint.com 
-19. www.tutorialspoint.com 
-20. www.javatpoint.com 
-21. www.cplusplus.com 
-22. www.learncpp.com 
-23. www.tutorialspoint.com 
-24. www.cprogramming.com 
-25. www.stackoverflow.com 
-26. www.learncodethehardway.org 
-27. www.bloc.io 
-28. www.howtocode.io 
-29. www.edx.org 
-30. www.instructables.com 
-31. www.developer.apple.com 
-32. www.developer.android.com 
-33. www.developers.google.com 
-34. www.developer.mozilla.org 
-35. www.msdn.microsoft.com 
-36. www.dev.opera.com 
-37. www.www.developphp.com 
-38. www.quackit.com 
-39. www.htmlite.com 
-40. www.siteduzero.com 
-41. www.dreamincode.net 
-42. www.phpbuddy.com 
-43. www.php.net 
-44. www.microsoftvirtualacademy.com 
-45. www.professormesser.com .
-46. www.freecodecamp.org
-  47. https://lordicon.com/
+<li>www.codecademy.com</li>
+<li>www.lynda.com</li>
+<li>www.udemy.com</li>
+<li>www.udacity.com </li>
+<li>www.coursera.org</li>
+<li>www.w3schools.com</li>
+<li>www.thenewboston.org</li>
+<li>www.programmr.com</li>
+<li>www.codeavengers.com</li>
+<li>www.codeschool.com</li>
+<li>www.learnstreet.com</li>
+<li>www.teamtreehouse.com</li>
+<li>www.sqlzoo.net</li>
+<li>www.codehs.com</li>
+<li>www.teamtreehouse.com</li>
+<li>www.html5rocks.com</li>
+<li>www.codepen.io</li>
+<li>www.sitepoint.com</li>
+<li>www.tutorialspoint.com</li>
+<li>www.javatpoint.com</li>
+<li>www.cplusplus.com</li>
+<li>www.learncpp.com</li>
+<li>www.tutorialspoint.com</li>
+<li>www.cprogramming.com</li>
+<li>www.stackoverflow.com</li>
+<li>www.learncodethehardway.org</li>
+<li>www.bloc.io</li>
+<li>www.howtocode.io</li>
+<li>www.edx.org</li>
+<li>www.instructables.com</li>
+<li>www.developer.apple.com</li>
+<li>www.developer.android.com</li>
+<li>www.developers.google.com</li>
+<li>www.developer.mozilla.org</li>
+<li>www.msdn.microsoft.com</li>
+<li>www.dev.opera.com</li>
+<li>www.www.developphp.com</li>
+<li>www.quackit.com</li>
+<li>www.htmlite.com</li>
+<li>www.siteduzero.com</li>
+<li>www.dreamincode.net</li>
+<li>www.phpbuddy.com</li>
+<li>www.php.net</li>
+<li>www.microsoftvirtualacademy.com</li>
+<li>www.professormesser.com</li>
+<li>www.freecodecamp.org</li>
+<li>https://lordicon.com/</li>
   </ol>
   
   **DBMS:**
@@ -143,7 +143,6 @@
   <li><a href="https://www.w3schools.com/">W3school for beginners</a></li>
   <li><a href="https://www.sanfoundry.com/1000-database-management-system-questions-answers/">Sanfoundry 1000MCQ on DBMS most recommeded for Placement Preparation</a></li>
   <li><a href="https://www.sqlclimber.com/">SQL Climber to practise SQL Queries</a></li>
-  <li><a href=""></a></li>
   </ol>
   
   **Web Development:**
@@ -152,9 +151,6 @@
   <li><a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a></li>
   <li><a href="https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-30th-july-2021-bnc">10-trending-projects-on-github-for-web-developers</a></li>
   <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/">FreeCodeCamp</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
   </ol>
   
   **Operating Systems:**
@@ -162,17 +158,12 @@
   <ol>
   <li><a href="https://www.interviewbit.com/operating-system-interview-questions">OS Interview Questions:InterviewBit</a></li>
   <li><a href="https://youtu.be/YwqexcfbucE">Complete Course by Knowledge Gate Sanchit sir</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
   </ol>
   
   **Open Source Contribution:**
   
   <ol>
   <li><a href="https://dev.to/naman56/guide-for-your-first-open-source-contribution-2136">Guide for your first open source contribution</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
   </ol>
   
   **Devops Resources:**
@@ -193,10 +184,6 @@
   <ol>
   <li><a href="https://github.com/graviraja/MLOps-Basics">Mlops Practical project</a></li>
   <li><a href="https://github.com/graviraja/100-Days-of-NLP">100-Days-of-NLP</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-
   </ol>
   
    **System Design:**
@@ -205,10 +192,6 @@
   <li><a href="https://github.com/prasadgujar/low-level-design-primer">Low Level Design Primer</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB">Distributed System Lecture series-Youtube</a></li>
   <li><a href="https://www.freecodecamp.org/news/systems-design-for-interviews/">System Design for Inerview-FreeCodeCamp</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
   </ol>
   
   
