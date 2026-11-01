@@ -21,6 +21,7 @@
   <li>https://in.topresume.com/</li>
   <li>https://resumeworded.com/score</li>
   <li>https://www.livecareer.com/resume/check</li>
+  <li><a href="https://www.jobemerge.work">JobEmerge</a> - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.</li>
 </ol>
   
  
