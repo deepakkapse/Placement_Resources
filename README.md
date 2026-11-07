@@ -13,6 +13,7 @@
   <li>https://rx-resume.web.app/</li>
   <li>https://cv.bytevitae.com/</li>
   <li>https://resumake.io/</li>
+  <li><a href="https://resumeinvited.com/">ResumeInvited</a> — Free browser-based resume editor with PDF and editable Word export, no account needed.</li>
 </ol>
   
   
