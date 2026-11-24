@@ -84,6 +84,7 @@
   <li><a href="https://github.com/PiyushChaturvedii/NodeJS">Node jS interview questions ⚡</a></li>
   <li><a href="https://quickref.me/">The Quick reference of all resources</a></li>
   <li><a href="https://github.com/Developer-Y/technical-interviews"></a>Technical Interview resources</li>
+  <li><a href="https://aethel.pro/practice">Aethel</a> - Free AI interview practice for developers, no account</li>
   
   </ol>
   
